@@ -1,2 +1,2 @@
 # online-counter
-An online counter.
+A simple online counter.
